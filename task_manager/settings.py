@@ -34,7 +34,7 @@ DEBUG = os.getenv('DEBUG', 'False').lower() == 'true'
 
 ALLOWED_HOSTS = [
     'webserver',
-    'python-project-52-c8dp.onrender.com',
+    'python-project-52-b6le.onrender.com',
     '127.0.0.1'
 ]
 
